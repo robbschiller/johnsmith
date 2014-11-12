@@ -1,0 +1,29 @@
+{
+  "name": "ovaltine",
+  "version": "0.0.0",
+  "description": "Static site scaffolding with metalsmith",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "filesearch": "./bin/ovaltine"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robbschiller/ovaltine.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "static",
+    "site",
+    "scaffolding"
+  ],
+  "author": "Robb Schiller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbschiller/ovaltine/issues"
+  },
+  "homepage": "https://github.com/robbschiller/ovaltine"
+}
